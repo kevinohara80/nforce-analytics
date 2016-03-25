@@ -1,0 +1,25 @@
+{
+  "name": "nforce-analytics",
+  "version": "1.0.0",
+  "description": "Salesforce analytics api plugin for nforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinohara80/nforce-analytics.git"
+  },
+  "keywords": [
+    "nforce-plugin",
+    "salesforce",
+    "analytics",
+    "api"
+  ],
+  "author": "Kevin O'Hara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinohara80/nforce-analytics/issues"
+  },
+  "homepage": "https://github.com/kevinohara80/nforce-analytics#readme"
+}
