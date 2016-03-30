@@ -11,10 +11,13 @@
     "url": "git+https://github.com/kevinohara80/nforce-analytics.git"
   },
   "keywords": [
+    "nforce",
     "nforce-plugin",
     "salesforce",
     "analytics",
-    "api"
+    "api",
+    "forcedotcom",
+    "force.com"
   ],
   "author": "Kevin O'Hara",
   "license": "MIT",
